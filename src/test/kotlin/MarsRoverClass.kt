@@ -1,4 +1,5 @@
 import org.junit.jupiter.api.Test
+import org.assertj.core.api.Assertions.assertThat
 
 class MarsRoverClass {
     @Test
