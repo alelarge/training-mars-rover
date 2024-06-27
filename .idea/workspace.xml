@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56a1073e-5495-4a00-995a-bb6dd860babc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MarsRover.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,16 +63,7 @@
       <recent name="$PROJECT_DIR$/src/test/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AcceptationTest.rover should move forward">
-    <configuration name="AcceptationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="training-mars-rover" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AcceptationTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.MarsRoverClassTest">
     <configuration name="AcceptationTest.rover should move forward" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="training-mars-rover" />
       <option name="PACKAGE_NAME" value="" />
@@ -83,19 +74,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MarsRoverClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MarsRoverClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="training-mars-rover" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MarsRoverClass" />
+      <option name="MAIN_CLASS_NAME" value="MarsRoverClassTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MarsRoverClass.rover have a position " type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="kt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="training-mars-rover" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MarsRoverClass" />
+      <option name="PACKAGE_NAME" value="MarsRoverClassTest" />
+      <option name="MAIN_CLASS_NAME" value="MarsRoverClassTest.kt" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kt.create position at 0 0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="training-mars-rover" />
+      <option name="PACKAGE_NAME" value="MarsRoverClassTest" />
+      <option name="MAIN_CLASS_NAME" value="MarsRoverClassTest.kt" />
+      <option name="METHOD_NAME" value="create position at 0 0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kt.rover have a position " type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="training-mars-rover" />
+      <option name="PACKAGE_NAME" value="MarsRoverClassTest" />
+      <option name="MAIN_CLASS_NAME" value="MarsRoverClassTest.kt" />
       <option name="METHOD_NAME" value="rover have a position " />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -104,10 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MarsRoverClassTest" />
+        <item itemvalue="JUnit.kt" />
+        <item itemvalue="JUnit.kt.create position at 0 0" />
         <item itemvalue="JUnit.AcceptationTest.rover should move forward" />
-        <item itemvalue="JUnit.MarsRoverClass" />
-        <item itemvalue="JUnit.MarsRoverClass.rover have a position " />
-        <item itemvalue="JUnit.AcceptationTest" />
+        <item itemvalue="JUnit.kt.rover have a position " />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +130,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718984505732</updated>
-      <workItem from="1718984506852" duration="5136000" />
+      <workItem from="1718984506852" duration="5615000" />
     </task>
     <servers />
   </component>
