@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56a1073e-5495-4a00-995a-bb6dd860babc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MarsRover.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/Position.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/MarsRover.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Position.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Kotlin Data Class" />
       </list>
     </option>
   </component>
@@ -130,7 +131,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718984505732</updated>
-      <workItem from="1718984506852" duration="5615000" />
+      <workItem from="1718984506852" duration="5902000" />
     </task>
     <servers />
   </component>

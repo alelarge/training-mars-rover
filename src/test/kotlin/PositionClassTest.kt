@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Test
 import org.assertj.core.api.Assertions.assertThat
 
-class MarsRoverClassTest {
+class PositionClassTest {
     @Test
     fun `create position at 0 0`() {
         val position = (Position(0, 0))
