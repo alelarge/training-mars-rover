@@ -8,7 +8,7 @@ class AcceptationTest {
         rover.execute("F")
         assertEquals(Position(0, 1), rover.position)
         assertEquals(Direction.NORTH, rover.direction)
-
-        TODO()*/
+*/
+        TODO()
     }
 }
