@@ -1,5 +1,7 @@
 import org.junit.jupiter.api.Test
-import kotlin.test.assertEquals
+import org.junit.jupiter.api.Assertions.assertEquals
+
+
 
 class MarsRoverClassTest {
 @Test
@@ -7,4 +9,11 @@ class MarsRoverClassTest {
         val rover = MarsRover(Position(0, 0))
         assertEquals(Position(0, 0), rover.position)
     }
+
+@Test
+    fun `rover should initialize the direction is the north`() {
+        val rover = MarsRover(Direction.NORTH)
+        assertEquals(Direction.NORTH, rover.direction)
+        }
 }
+

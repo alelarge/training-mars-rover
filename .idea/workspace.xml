@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56a1073e-5495-4a00-995a-bb6dd860babc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MarsRover.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/kotlin/MarsRoverClassTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/MarsRoverClassTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MarsRover.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MarsRover.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/TestAcceptation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/TestAcceptation.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,26 +131,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718984505732</updated>
-      <workItem from="1718984506852" duration="6968000" />
+      <workItem from="1718984506852" duration="8726000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/test/kotlin/MarsRoverClassTest.kt</url>
-          <line>3</line>
-          <properties class="MarsRoverClassTest" method="&lt;init&gt;">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
