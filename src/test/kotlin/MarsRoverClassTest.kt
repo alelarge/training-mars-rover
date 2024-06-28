@@ -17,7 +17,7 @@ class MarsRoverClassTest {
     @Test
     fun `rover with the position 0-0 direction North change a position at 0-1 direction North`() {
         val rover = MarsRover((Position(0, 0)),Direction.NORTH)
-        rover.execute()
+        rover.execute("F")
         assertEquals(Position(0, 1), rover.position)
         assertEquals(Direction.NORTH, rover.direction)
     }
